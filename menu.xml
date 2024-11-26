@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlatillo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Platillo>
+    <Nombre>Desayuno </Nombre>
+    <Precio>40</Precio>
+    <Descripcion>Gallopinto, Huevo, Tortilla</Descripcion>
+  </Platillo>
+  <Platillo>
+    <Nombre>Pollo Asado</Nombre>
+    <Precio>150</Precio>
+    <Descripcion>Pollo, tajadas, ensaladas</Descripcion>
+  </Platillo>
+</ArrayOfPlatillo>

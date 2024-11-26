@@ -1,0 +1,16 @@
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.Form1.resources
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.csproj.GenerateResource.cache
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\XML\XML\bin\Debug\net8.0-windows\XML.exe
+C:\Users\DELL 5590\source\repos\XML\XML\bin\Debug\net8.0-windows\XML.deps.json
+C:\Users\DELL 5590\source\repos\XML\XML\bin\Debug\net8.0-windows\XML.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\XML\XML\bin\Debug\net8.0-windows\XML.dll
+C:\Users\DELL 5590\source\repos\XML\XML\bin\Debug\net8.0-windows\XML.pdb
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.dll
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\refint\XML.dll
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.pdb
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\XML.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\XML\XML\obj\Debug\net8.0-windows\ref\XML.dll
